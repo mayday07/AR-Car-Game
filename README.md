@@ -2,7 +2,7 @@
 
 ## Steps To Run : 
 
-1. Assets/21.apk Install this apk in your moblie.
+1. Navigate to "Assets/21.apk" and install "21.apk" on your android device.
 2. Take a print of target-Image.jpg
 3. Run the application and point your device camera towards the image.
 
