@@ -1,5 +1,5 @@
 # AR-Car-Game
-
+(supported on android devices only)
 ## Steps To Run : 
 
 1. Navigate to "Assets/21.apk" and install "21.apk" on your android device.
