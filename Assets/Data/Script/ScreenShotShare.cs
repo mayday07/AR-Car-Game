@@ -20,10 +20,10 @@ public class ScreenShotShare : MonoBehaviour
 
     public void Share()
     {
-#if UNITY_ANDROID
+#if UNITY_ANDROID  // support for android devices
         if (!isProcessing)
             StartCoroutine(ShareScreenshot());
-#elif UNITY_IOS
+#elif UNITY_IOS    // support for iOS devices
  if(!isProcessing)
  StartCoroutine( CallSocialShareRoutine() );
 #else
